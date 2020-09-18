@@ -464,7 +464,7 @@
 		"q": "^1.4.1",
 		"vscode-chrome-debug-core": "0.0.5",
 		"xmldom": "0.1.27",
-		"node-forge":"0.6.48",
+		"node-forge":"0.10.0",
 		"xml2js": "0.4.17"
 	}
 }
